@@ -41,7 +41,7 @@
   "dependencies": {
     "funargs": "latest",
     "sugar": "latest",
-    "node-document-serializer": "0.1.0-pre2"
+    "node-document-serializer": "latest"
   },
   "devDependencies": {
     "mocha": "latest"
